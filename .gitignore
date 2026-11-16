@@ -1,0 +1,12 @@
+# исходные данные слишком велики для GitHub
+*.csv
+
+# учебные материалы курса, не относятся к решению
+/Dockerfile
+/FeatureGenerationNotebook.ipynb
+
+# служебные файлы
+tmp_claude/
+.ipynb_checkpoints/
+__pycache__/
+.pytest_cache/
